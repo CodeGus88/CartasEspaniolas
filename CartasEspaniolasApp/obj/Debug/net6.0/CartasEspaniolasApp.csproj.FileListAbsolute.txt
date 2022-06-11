@@ -1,0 +1,15 @@
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\CartasEspaniolasApp.csproj.AssemblyReference.cache
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\CartasEspaniolasApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\CartasEspaniolasApp.AssemblyInfoInputs.cache
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\CartasEspaniolasApp.AssemblyInfo.cs
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\CartasEspaniolasApp.csproj.CoreCompileInputs.cache
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\bin\Debug\net6.0\CartasEspaniolasApp.exe
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\bin\Debug\net6.0\CartasEspaniolasApp.deps.json
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\bin\Debug\net6.0\CartasEspaniolasApp.runtimeconfig.json
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\bin\Debug\net6.0\CartasEspaniolasApp.dll
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\bin\Debug\net6.0\CartasEspaniolasApp.pdb
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\CartasEspaniolasApp.dll
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\refint\CartasEspaniolasApp.dll
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\CartasEspaniolasApp.pdb
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\CartasEspaniolasApp.genruntimeconfig.cache
+D:\.NET\CartasEspaniolasApp\CartasEspaniolasApp\obj\Debug\net6.0\ref\CartasEspaniolasApp.dll
