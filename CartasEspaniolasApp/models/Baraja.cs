@@ -53,7 +53,6 @@ namespace CartasEspaniolasApp.models
                 return carta;
             }
             else {
-                Console.WriteLine("Ya no hay más cartas...");
                 return null;
             }
         }
